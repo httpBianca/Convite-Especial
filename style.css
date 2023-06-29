@@ -37,7 +37,6 @@ button{
     cursor: pointer;
 }
 
-
 .aceitar{
     margin: 10px;
     font-family: 'Poppins', sans-serif;
@@ -54,7 +53,7 @@ button{
         font-size: small;
     }
     .container{
-        width: 330px;
+        width: 300px;
         padding: 15px;
     }
     
