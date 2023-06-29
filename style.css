@@ -37,12 +37,25 @@ button{
     cursor: pointer;
 }
 
+
 .aceitar{
     margin: 10px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .aceitar img{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
     margin: 10px;
+}
+
+@media (max-width: 600px){ 
+    body{
+        font-size: small;
+    }
+    .container{
+        width: 330px;
+        padding: 15px;
+    }
+    
 }
